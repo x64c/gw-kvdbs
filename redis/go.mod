@@ -4,7 +4,7 @@ go 1.26.1
 
 require (
 	github.com/redis/go-redis/v9 v9.18.0
-	github.com/x64c/gw v0.0.0-20260325191139-f9a4ba4e0df6
+	github.com/x64c/gw v0.0.0-20260326204602-2bd1b566ac6b
 )
 
 require (
