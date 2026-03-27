@@ -6,9 +6,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/x64c/gw/kvdbs"
-
 	lowimpl "github.com/redis/go-redis/v9"
+	"github.com/x64c/gw/kvdbs"
 )
 
 // DB implements kvdbs.DB for Redis.

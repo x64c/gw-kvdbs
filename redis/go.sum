@@ -16,8 +16,8 @@ github.com/redis/go-redis/v9 v9.18.0 h1:pMkxYPkEbMPwRdenAzUNyFNrDgHx9U+DrBabWNfS
 github.com/redis/go-redis/v9 v9.18.0/go.mod h1:k3ufPphLU5YXwNTUcCRXGxUoF1fqxnhFQmscfkCoDA0=
 github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
-github.com/x64c/gw v0.0.0-20260326204602-2bd1b566ac6b h1:Yti7QfWijPLvvveIEpB6/yn5s9lvKGqa1gbmv362RJI=
-github.com/x64c/gw v0.0.0-20260326204602-2bd1b566ac6b/go.mod h1:id2Nbm6H/MQE7Ek2kmVVk2qa/iS2KCspbZnR5Z51c6E=
+github.com/x64c/gw v0.0.0-20260327211523-67e495ea69d9 h1:AuWJupB+Bi8hrjNRUF/o0cd9kl0HsgNX65A5WM65mUQ=
+github.com/x64c/gw v0.0.0-20260327211523-67e495ea69d9/go.mod h1:id2Nbm6H/MQE7Ek2kmVVk2qa/iS2KCspbZnR5Z51c6E=
 github.com/zeebo/xxh3 v1.0.2 h1:xZmwmqxHZA8AI603jOQ0tMqmBr9lPeFwGg6d+xy9DC0=
 github.com/zeebo/xxh3 v1.0.2/go.mod h1:5NWz9Sef7zIDm2JHfFlcQvNekmcEl9ekUZQQKCYaDcA=
 go.uber.org/atomic v1.11.0 h1:ZvwS0R+56ePWxUNi+Atn9dWONBPp/AUETXlHW0DxSjE=
